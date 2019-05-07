@@ -1,6 +1,6 @@
 # Semeval 2019 Task 9 - SubTask B - Suggestion Mining from Online Reviews and Forums
 
-This repository contains the data as well as the scripts for SubTask B of the Semeval 2019 Task 9 competition. 
+This repository contains the data as well as the scripts for SubTask B of the Semeval 2019 Task 9 competition.
 
 You can access the Codalab competition here: https://competitions.codalab.org/competitions/19956 
 
